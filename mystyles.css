@@ -1,0 +1,18 @@
+body {
+	font-family: sans-serif;
+	background: white url(http://images.wikia.com/adventuretimewithfinnandjake/images/3/3a/S1e1_flip_out.png) repeat;
+}
+h1 {
+	color: red;
+}
+h2{
+	color: yellow;/* I changed the color because background color was the same, it was blocking the words */
+}
+p {
+	margin: 20px;
+	color: green;/* I changed the color because background color was the same, it was blocking the words */
+}
+.active {
+	border-color: black;
+	border-style: solid;
+}
